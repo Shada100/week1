@@ -12,4 +12,17 @@ template LessThan10() {
     lt.in[1] <== 10;
 
     out <== lt.out;
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 }
+component main = LessThan10();
+=======
+}
+>>>>>>> 9ff7bae13d90e295d332dc04a910da48ab4138b8
+=======
+}
+>>>>>>> 9ff7bae13d90e295d332dc04a910da48ab4138b8
+=======
+}
+>>>>>>> 9ff7bae13d90e295d332dc04a910da48ab4138b8

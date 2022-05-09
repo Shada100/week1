@@ -13,4 +13,15 @@ template Multiplier2 () {
    c <== a * b;  
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 component main = Multiplier2();
+>>>>>>> 9ff7bae13d90e295d332dc04a910da48ab4138b8
+=======
+component main = Multiplier2();
+>>>>>>> 9ff7bae13d90e295d332dc04a910da48ab4138b8
+=======
+component main = Multiplier2();
+>>>>>>> 9ff7bae13d90e295d332dc04a910da48ab4138b8
